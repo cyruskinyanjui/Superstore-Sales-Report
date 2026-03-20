@@ -1,2 +1,20 @@
 # Superstore-Sales-Report
-This project explores customers' behaviour and patterns in Superstore using techniques and tools which include SQL and power BI to generally show the relationship between the customers, sales, and markets patterns with time and generate meaningful insights which help in making better future decisions which meets the company's expectations.
+# Description
+This project analyzes sales data to identify trends, top-performing products and customers, and regional performance.
+# Objective
+To understand sales patterns and, regions doing well and the key factors affecting profits and sells.
+# Dataset
+- Source: Kaggle
+- Rows: 51291
+- Features: order id, order date, ship date, ship mode, customer name, segment, state, country, market, region, product id,	   category, sub category, product name, sales, quantity, discount, profit, shipping cost, order priority, year
+# Tools
+Excel
+Power BI
+# Analysis Steps
+- Data cleaning
+- Visualization
+# Key Insights
+- Sales peak in 2014.
+- Central region had the highest number of sales.
+- products related to technology generated the highest profits.
+# Visualizations
