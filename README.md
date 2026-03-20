@@ -18,3 +18,5 @@ Power BI
 - Central region had the highest number of sales.
 - products related to technology generated the highest profits.
 # Visualizations
+<img width="668" height="376" alt="Superstore Sales Analysis" src="https://github.com/user-attachments/assets/ceee8b1f-abdf-4be0-b1c1-5baec219426e" />
+
